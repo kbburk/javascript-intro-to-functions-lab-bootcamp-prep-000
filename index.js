@@ -25,7 +25,7 @@ if (strCase.toLowerCase() === strCase) {
 else if(strCase.toUpperCase() === strCase){
   return "YES INDEED!";
 }
-else (grandmastr==="I love you")
+else (grandmastr===    )
   return 
 
 
