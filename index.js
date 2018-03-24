@@ -23,7 +23,7 @@ if (strCase.toLowerCase() === strCase) {
   return `I can/'t hear you!`;
 }
 else if(strCase.toUpperCase() === strCase){
-  return
+  return 
 }
 
 
