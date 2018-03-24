@@ -26,6 +26,6 @@ else if(strCase.toUpperCase() === strCase){
   return "YES INDEED!";
 }
 else
-  return 
+  return "YES INDEED!"
 
 
