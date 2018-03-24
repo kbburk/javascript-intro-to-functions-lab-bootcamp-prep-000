@@ -23,7 +23,7 @@ var grandmaStr = string;
 if (caseStr.toLowerCase() === caseStr) {
   return `I can't hear you!`;
 }
-else if(caseStr.toUpperCase() === caseStr){
+else if(caseStr.toUpperCase() === caseStr) {
   return "YES INDEED!";
 }
 else (grandmaStr === "I love you, Grandma."){
