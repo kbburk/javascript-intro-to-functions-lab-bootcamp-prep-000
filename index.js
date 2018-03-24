@@ -20,9 +20,10 @@ function sayHiToGrandma(string){
 var string;
  
 if (lowercase.toLowerCase() === lowercas) {
-  
+  return "I can/'t hear you!";
+``}
  
-} else if (dog === "thirsty") {
+/*} else if (dog === "thirsty") {
   console.log("Refilling water bowl.")
  
 } else if (dog === "playful") {
@@ -34,7 +35,7 @@ if (lowercase.toLowerCase() === lowercas) {
 } else { 
   console.log("Reading newspaper.")
 }
-
+*/
   === uppercase
  
   return "I can/'t hear you!";
