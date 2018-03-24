@@ -21,7 +21,7 @@ var caseStr = string;
 var grandmaStr = string;
 
 if (caseStr.toLowerCase() === caseStr) {
-  return `I can/'t hear you!`;
+  return `I can't hear you!`;
 }
 else if(caseStr.toUpperCase() === caseStr){
   return "YES INDEED!";
