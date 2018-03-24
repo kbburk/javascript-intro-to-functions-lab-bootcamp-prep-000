@@ -20,7 +20,7 @@ function sayHiToGrandma(string){
 var string;
  
 if (lowercase.toLowerCase() === lowercas) {
-  console.log("Refilling food bowl.")
+  
  
 } else if (dog === "thirsty") {
   console.log("Refilling water bowl.")
