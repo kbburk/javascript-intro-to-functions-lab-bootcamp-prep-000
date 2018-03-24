@@ -19,7 +19,7 @@ function sayHiToGrandma(string){
 
 var string;
  
-if (dog === "hungry") {
+if (  ) {
   console.log("Refilling food bowl.")
  
 } else if (dog === "thirsty") {
