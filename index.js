@@ -27,7 +27,7 @@ else if(caseStr.toUpperCase() === caseStr){
   return "YES INDEED!";
 }
 else (grandmaStr === "I love you, Grandma.")
-  return "I love you, too."
+  return "I love you, too.";
 }
 }
 
