@@ -17,3 +17,8 @@ function logWhisper(string){
 
 
 
+if (lowercase.toLowerCase() === lowercas) {
+  return "I can/'t hear you!";
+}
+
+
