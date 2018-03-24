@@ -22,8 +22,8 @@ var strCase = string;
 if (strCase.toLowerCase() === strCase) {
   return `I can/'t hear you!`;
 }
-else if()
-
+else if(strCase.toUpperCase() === strCase){
+  return
 }
 
 
